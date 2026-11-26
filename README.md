@@ -60,7 +60,7 @@ Setting **Earth's orbital cycle as the unit reference gear ($R_{\text{Earth}} = 
 
 | Scale / 階層 | Coxeter Folding Origin / コクセター折り畳み由来 | Algebraic Gear Ratio (Earth = 1) / 代数ギヤ比 | Observed Astronomical Ratio / 観測値（地球公転 = 1） |
 | :--- | :--- | :--- | :--- |
-| **Earth–Moon Torus**<br>地球・月トーラス系 | $B_2 \times \tilde{A}_1$ (Clifford Torus $S^1 \times S^1$) | **$1$** *(Moon: $12.37$ synodic cycles)* | **$1$** *(Moon: $12.37$ synodic cycles)* |
+| **Earth–Moon Torus**<br>地球・月トーラス系 | $B_2 \times \tilde{A}_1$ (Clifford Torus $S^1 \times S^1$) | **$1$** *(Moon: 12.37 synodic cycles)* | **$1$** *(Moon: 12.37 synodic cycles)* |
 | **Jupiter Orbit**<br>木星公転（二重重力ペア） | $D_4 \to G_2$ ($\sqrt{3}$ folding) | **$\approx 11.86$** ($\approx \phi^5$) | **$11.86$** |
 | **Solar Galactic Orbit**<br>太陽系の銀河公転 | $E_8 \to H_4$ ($\phi^{40}$ total folding depth) | **$\mathbf{2.29 \times 10^8 \sim 2.81 \times 10^8}$** | **$\mathbf{2.25 \times 10^8 \sim 2.50 \times 10^8}$** *(Milky Way)* |
 | **Galactic Spiral Arms**<br>銀河渦巻き腕（他の渦巻銀河含む） | $H_4 \oplus \phi H_4$ ($\phi^{40} \sim \phi^{43}$) | **$\mathbf{2.3 \times 10^8 \sim 9.7 \times 10^8}$** | **$\mathbf{1.5 \times 10^8 \sim 10^9}$** *(M31, M33 & spiral disks)* |
